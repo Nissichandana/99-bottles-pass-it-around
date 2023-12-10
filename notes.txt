@@ -1,0 +1,2 @@
+touch .gitignore and add node_modules so I don't push all the node_modules when pushing to github.
+add also touch .env to add any key, password or any sensitive information not to push it to github.
